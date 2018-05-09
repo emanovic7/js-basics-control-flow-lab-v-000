@@ -9,5 +9,7 @@ function scuberGreetingForFeet(value){
   else if (distance > 2000){
     console.log("I will gladly take your thirty bucks.")
   }
-  else if (distance > )
+  else if (distance > 2500 ){
+    console.log("No can do")
+  }
 }
